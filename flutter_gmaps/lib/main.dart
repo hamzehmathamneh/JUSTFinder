@@ -9,7 +9,6 @@ import 'package:location/location.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:group_button/group_button.dart';
 import 'package:splashscreen/splashscreen.dart';
-import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:sliding_up_panel/sliding_up_panel.dart';
 
 /* import 'package:google_directions_api/google_directions_api.dart';
